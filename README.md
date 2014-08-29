@@ -11,7 +11,7 @@ I made this setup to show that one can controls once lamp using only "beginner l
 * a standard example from the spark core: switching an LED from the internet
 * a standard Velleman hardware kit to switch mains using low voltage signals.
 
-I wrote a column in the dutch newspaper Volkskrant of august 30th 2014 on this project
+I wrote a column in the dutch newspaper "De Volkskrant" of august 30th 2014 on this project
 
 The files presented here represent code to switch on, or off, a lamp from a website. A running example can be found on:
 [www.rolfhut.nl/wolowitzLamp.html](www.rolfhut.nl/wolowitzLamp.html). A more fancy example, in dutch, can be found on
@@ -20,10 +20,8 @@ The files presented here represent code to switch on, or off, a lamp from a webs
 What you will need (hardware)
 -----------------------------
 * a spark core
-* a LCD screen, I recommend the one that comes with the official Arduino Starter Kit, since spark supports the lcd library
-arduino
-* a way to switch mains using a 3V signal. I used a Velleman K2634 board, but since I started on this project, I learned
-that has produced a shield that does exactly that.
+* a LCD screen, I recommend the one that comes with the official Arduino Starter Kit, since spark supports the lcd library that comes with the arduino.
+* a way to switch mains using a 3V signal. I used a Velleman K2634 board, but since I started on this project, I learned that Spark has produced a shield that does exactly that.
 * if you want to show the result on your site, you also need a webcam and a way to upload images to your site. I recommend YawCam.
 
 
